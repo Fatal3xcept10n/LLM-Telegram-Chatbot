@@ -1,1 +1,1 @@
-API_KEY = 'gitignore test'
+API_KEY = ''
