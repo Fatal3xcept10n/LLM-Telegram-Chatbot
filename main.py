@@ -3,7 +3,7 @@ from telegram.ext import Updater
 
 def main():
     # Enter your API key here
-    API_KEY = '6555907776:AAFbHnL9xUSsZ3DpAX6XiqJeEuoOTkzK8DQ'
+    API_KEY = ''
     
     #Create updater and dispatcher using API key
     updater = Updater(API_KEY, use_context=True)
