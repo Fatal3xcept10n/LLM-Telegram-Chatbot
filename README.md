@@ -50,7 +50,8 @@ You can interact with the bot on Telegram using the following commands:
 - /stop: Stop the current conversation.
 - /persistence: (Currently not functional) Toggle conversation persistence (coming soon).
 ```
-![Menu image](https://github.com/Fatal3xcept10n/LLM-Telegram-Chatbot/blob/master/helpmenu.png?raw=true)
+![Menu image](https://github.com/Fatal3xcept10n/LLM-Telegram-Chatbot/blob/master/images/helpmenu.png?raw=true)
+![Conversation image](https://github.com/Fatal3xcept10n/LLM-Telegram-Chatbot/blob/master/images/conversation.png?raw=true)
 
 ## Commands
 
