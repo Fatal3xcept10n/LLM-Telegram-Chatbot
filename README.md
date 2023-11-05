@@ -23,22 +23,22 @@ Before using the Telegram Chatbot, ensure you have the following:
 
 1. Clone the repository to your local machine:
 ```bash
-   git clone https://github.com/Fatal3xcept10n/LLM-Telegram-Chatbot.git
+git clone https://github.com/Fatal3xcept10n/LLM-Telegram-Chatbot.git
 ```
 2. Change directory to the project folder:
 ```bash
-   cd LLM-Telegram-Chatbot
+cd LLM-Telegram-Chatbot
 ```
 3. Install the required Python libraries:
 ```bash
-   pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 4. Generate a Telegram Bot API key:
    - Visit the BotFather on Telegram to create your bot and obtain the API key.
    - Create a file in the project folder named ``` apikey.py ```
    - Edit this file and include this single line, making sure to replace with your own API key
      ```bash
-        API_KEY = '[API key goes here]'
+     API_KEY = '[API key goes here]'
      ```
 ## Usage
 
