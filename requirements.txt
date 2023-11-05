@@ -1,0 +1,2 @@
+gpt4all==2.0.2
+python-telegram-bot==13.7
