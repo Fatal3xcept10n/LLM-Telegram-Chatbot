@@ -36,7 +36,7 @@ Before using the Telegram Chatbot, ensure you have the following:
 4. Generate a Telegram Bot API key:
    - Visit the BotFather on Telegram to create your bot and obtain the API key.
    - Create a file in the project folder named ``` apikey.py ```
-   - Edit this file and include your API key that you generated following the format below
+   - Edit this file and include this single line, making sure to replace with your own API key
      ```bash
         API_KEY = '[API key goes here]'
      ```
