@@ -16,7 +16,6 @@ def startConversation():
     global isRunning
     global prompt
     global response
-    global isReady
     global promptEvent
     global responseEvent
 
